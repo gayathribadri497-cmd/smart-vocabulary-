@@ -1,0 +1,6 @@
+{
+  "name": "Smart Vocabulary Trainer",
+  "description": "AI-powered vocabulary learning platform with personalized mnemonics, spaced-repetition SM-2 scheduling, adaptive quizzes, retention analytics, and interest-based memory tricks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
